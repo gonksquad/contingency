@@ -40,3 +40,7 @@
       - Use april tags on little stands for diagnostic opmode
       - Then test arm all the way up, boot, door, and intake
 14. Turn off Driver Hub until in queue
+
+### Queue
+### Match Setup
+### Post-Match
